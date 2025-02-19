@@ -1,19 +1,51 @@
 name: GitHub Profile Views Counter CI
+
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:  # Triggerable manually
+
 jobs:
   release:
     name: GitHub Profile Views Counter Action
     runs-on: ubuntu-20.04
+
     steps:
+      # Checkout the repository
       - uses: actions/checkout@v2.3.4
         with:
           token: ${{ secrets.INSIGHTS_TOKEN }}
+      
+      # Set up Node.js for the existing action
       - uses: actions/setup-node@v2.1.5
         with:
           node-version: 14.17.0
+
+      # Run the GitHub Profile Views Counter Action
       - uses: gayanvoice/github-profile-views-counter-action@3.0.0
         env:
           INSIGHTS_TOKEN: ${{ secrets.INSIGHTS_TOKEN }}
+
+      # Set up Python environment to generate the graph
+      - name: Set Up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      # Install necessary Python dependencies
+      - name: Install Dependencies
+        run: pip install matplotlib
+
+      # Run the Python script to generate the graph
+      - name: Generate Graph
+        run: python graph.py
+
+      # Commit and push the generated graph image
+      - name: Commit and Push Graph Image
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add profile-views-graph.png
+          git commit -m "Updated profile views graph" || echo "No changes to commit"
+          git push
+
