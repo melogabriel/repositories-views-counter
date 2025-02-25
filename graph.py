@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from datetime import datetime
 
 # Load the JSON data
-with open('records.json', 'r') as f:
+with open('cache/411425982/records.json', 'r') as f:
     records = json.load(f)
 
 # Extract data for plotting
