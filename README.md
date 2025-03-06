@@ -1,5 +1,3 @@
-[![GitHub Profile Views Counter CI](https://github.com/melogabriel/profile-views-counter/actions/workflows/action.yml/badge.svg)](https://github.com/melogabriel/profile-views-counter/actions/workflows/action.yml)
-
 ## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
 **GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
 It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
@@ -39,7 +37,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/6 12:17 PM UTC</i></small>
+<small><i>Last updated on 2025/3/6 6:13 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
