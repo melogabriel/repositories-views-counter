@@ -1,7 +1,7 @@
-## [🔙 profile-views-counter](https://github.com/melogabriel/profile-views-counter)
+## [🔙 repositories-views-counter](https://github.com/melogabriel/repositories-views-counter)
 
 ### :octocat: [langchain-chatgpt](https://github.com/melogabriel/langchain-chatgpt)
-![Image of profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/graph/633030414/large/year.png)
+![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/graph/633030414/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2025/3/1</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>6</code>
 		</td>
 		<td>
-			<code>38</code>
+			<code>39</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/3/14 4:59 PM UTC</i></small>
+<small><i>Last updated on 2025/3/14 6:12 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/svg/633030414/badge.svg)](https://github.com/melogabriel/profile-views-counter/blob/master/readme/633030414/week.md)
+[![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/633030414/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/633030414/week.md)
 ```readme
-[![Image of profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/svg/633030414/badge.svg)](https://github.com/melogabriel/profile-views-counter/blob/master/readme/633030414/week.md)
+[![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/633030414/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/633030414/week.md)
 ```
 ### Header
-# langchain-chatgpt [<img alt="Image of profile-views-counter" src="https://github.com/melogabriel/profile-views-counter/blob/master/graph/633030414/small/year.png" height="20">](https://github.com/melogabriel/profile-views-counter/blob/master/readme/633030414/year.md)
+# langchain-chatgpt [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/633030414/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/633030414/year.md)
 ```readme
-# langchain-chatgpt [<img alt="Image of profile-views-counter" src="https://github.com/melogabriel/profile-views-counter/blob/master/graph/633030414/small/year.png" height="20">](https://github.com/melogabriel/profile-views-counter/blob/master/readme/633030414/year.md)
+# langchain-chatgpt [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/633030414/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/633030414/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

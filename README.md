@@ -21,7 +21,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/melogabriel/profile-views-counter/tree/master/readme/411425982/year.md">
+			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/411425982/year.md">
 				melogabriel
 			</a>
 		</td>
@@ -32,35 +32,35 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			29
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/profile-views-counter/raw/master/graph/411425982/small/year.png" height="20"> 683
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/411425982/small/year.png" height="20"> 683
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/melogabriel/profile-views-counter/tree/master/readme/633030414/year.md">
+			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/633030414/year.md">
 				langchain-chatgpt
 			</a>
 		</td>
 		<td>
-			2025/3/11 4:59 PM UTC
+			2025/3/12 12:00 AM UTC
 		</td>
 		<td>
-			5
+			6
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/profile-views-counter/raw/master/graph/633030414/small/year.png" height="20"> 38
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/633030414/small/year.png" height="20"> 42
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/14 4:59 PM UTC</i></small>
+<small><i>Last updated on 2025/3/14 6:13 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
-[![Image of https://github.com/melogabriel/profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/profile-views-counter)
+[![Image of https://github.com/melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/repositories-views-counter)
 
 ```readme
-[![Image of https://github.com/melogabriel/profile-views-counter](https://github.com/melogabriel/profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/profile-views-counter)
+[![Image of https://github.com/melogabriel/repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/melogabriel/repositories-views-counter)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
