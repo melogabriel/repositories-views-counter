@@ -3,6 +3,7 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "melogabriel"
+    "melogabriel",
+    "langchain-chatgpt"
   ]
 }
