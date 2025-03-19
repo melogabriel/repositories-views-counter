@@ -4,6 +4,7 @@
   "language": "en-US",
   "repository": [
     "melogabriel",
-    "langchain-chatgpt"
+    "langchain-chatgpt",
+    "google-maps-scraper"
   ]
 }
