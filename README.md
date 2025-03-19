@@ -51,9 +51,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/633030414/small/year.png" height="20"> 58
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/946732374/year.md">
+				google-maps-scraper
+			</a>
+		</td>
+		<td>
+			2025/3/16 12:24 PM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/946732374/small/year.png" height="20"> 549
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/19 12:18 PM UTC</i></small>
+<small><i>Last updated on 2025/3/19 12:25 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
