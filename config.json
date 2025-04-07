@@ -5,6 +5,7 @@
   "repository": [
     "melogabriel",
     "langchain-chatgpt",
-    "google-maps-scraper"
+    "google-maps-scraper",
+    "tinfoil-shops"
   ]
 }
