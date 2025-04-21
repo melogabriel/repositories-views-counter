@@ -6,6 +6,7 @@
     "melogabriel",
     "langchain-chatgpt",
     "google-maps-scraper",
-    "tinfoil-shops"
+    "tinfoil-shops",
+    "tinfoil-shops-status"
   ]
 }
