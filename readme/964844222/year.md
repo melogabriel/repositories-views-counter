@@ -1,6 +1,6 @@
 ## [🔙 repositories-views-counter](https://github.com/melogabriel/repositories-views-counter)
 
-### :octocat: [tinfoil-shops-status](https://github.com/melogabriel/tinfoil-shops-status)
+### :octocat: [melogabriel/tinfoil-shops-status](https://github.com/melogabriel/tinfoil-shops-status)
 ![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/graph/964844222/large/year.png)
 
 <details>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/5/28 7:24 PM UTC</i></small>
+<small><i>Last updated on 2025/5/28 7:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/964844222/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/964844222/week.md)
+[![Image repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/964844222/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/964844222/week.md)
 ```readme
-[![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/964844222/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/964844222/week.md)
+[![Image repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/964844222/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/964844222/week.md)
 ```
 ### Header
-# tinfoil-shops-status [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/964844222/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/964844222/year.md)
+# melogabriel/tinfoil-shops-status [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/964844222/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/964844222/year.md)
 ```readme
-# tinfoil-shops-status [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/964844222/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/964844222/year.md)
+# melogabriel/tinfoil-shops-status [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/964844222/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/964844222/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

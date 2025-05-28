@@ -1,6 +1,6 @@
 ## [🔙 repositories-views-counter](https://github.com/melogabriel/repositories-views-counter)
 
-### :octocat: [google-maps-scraper](https://github.com/melogabriel/google-maps-scraper)
+### :octocat: [melogabriel/google-maps-scraper](https://github.com/melogabriel/google-maps-scraper)
 ![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/graph/946732374/large/year.png)
 
 <details>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/5/28 7:24 PM UTC</i></small>
+<small><i>Last updated on 2025/5/28 7:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/946732374/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/946732374/week.md)
+[![Image repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/946732374/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/946732374/week.md)
 ```readme
-[![Image of repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/946732374/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/946732374/week.md)
+[![Image repositories-views-counter](https://github.com/melogabriel/repositories-views-counter/blob/master/svg/946732374/badge.svg)](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/946732374/week.md)
 ```
 ### Header
-# google-maps-scraper [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/946732374/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/946732374/year.md)
+# melogabriel/google-maps-scraper [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/946732374/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/946732374/year.md)
 ```readme
-# google-maps-scraper [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/946732374/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/946732374/year.md)
+# melogabriel/google-maps-scraper [<img alt="Image of repositories-views-counter" src="https://github.com/melogabriel/repositories-views-counter/blob/master/graph/946732374/small/year.png" height="20">](https://github.com/melogabriel/repositories-views-counter/blob/master/readme/946732374/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
