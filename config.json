@@ -7,6 +7,7 @@
     "langchain-chatgpt",
     "google-maps-scraper",
     "tinfoil-shops",
-    "tinfoil-shops-status"
+    "tinfoil-shops-status",
+    "OpenNX/opennx.github.io"
   ]
 }
