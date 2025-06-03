@@ -28,7 +28,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/5/31 12:51 AM UTC
+			2025/6/1 1:03 AM UTC
 		</td>
 		<td>
 			67
@@ -44,7 +44,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/5/31 12:00 AM UTC
+			2025/6/1 1:03 AM UTC
 		</td>
 		<td>
 			76
@@ -60,7 +60,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/5/31 12:00 AM UTC
+			2025/6/1 1:04 AM UTC
 		</td>
 		<td>
 			99
@@ -76,13 +76,13 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/5/31 12:00 AM UTC
+			2025/6/1 12:00 AM UTC
 		</td>
 		<td>
-			24752
+			25443
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/959189261/small/year.png" height="20"> 41314
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/959189261/small/year.png" height="20"> 42388
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/5/31 12:00 AM UTC
+			2025/6/1 12:00 AM UTC
 		</td>
 		<td>
-			4769
+			4973
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/964844222/small/year.png" height="20"> 9487
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/964844222/small/year.png" height="20"> 9870
 		</td>
 	</tr>
 	<tr>
@@ -108,18 +108,18 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/5/31 12:00 AM UTC
+			2025/6/1 12:00 AM UTC
 		</td>
 		<td>
-			723
+			808
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/985317875/small/year.png" height="20"> 1468
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/985317875/small/year.png" height="20"> 1591
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/6/2 6:15 PM UTC</i></small>
+<small><i>Last updated on 2025/6/3 12:54 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
