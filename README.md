@@ -28,13 +28,13 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 12:00 AM UTC
 		</td>
 		<td>
-			80
+			81
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/411425982/small/year.png" height="20"> 1169
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/411425982/small/year.png" height="20"> 1172
 		</td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 12:00 AM UTC
 		</td>
 		<td>
-			121
+			125
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/633030414/small/year.png" height="20"> 281
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/633030414/small/year.png" height="20"> 289
 		</td>
 	</tr>
 	<tr>
@@ -60,13 +60,13 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 12:00 AM UTC
 		</td>
 		<td>
-			158
+			159
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/946732374/small/year.png" height="20"> 1565
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/946732374/small/year.png" height="20"> 1566
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +76,13 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 12:00 AM UTC
 		</td>
 		<td>
-			47553
+			47993
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/959189261/small/year.png" height="20"> 76698
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/959189261/small/year.png" height="20"> 77403
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +92,13 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 12:00 AM UTC
 		</td>
 		<td>
-			11397
+			11509
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/964844222/small/year.png" height="20"> 20325
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/964844222/small/year.png" height="20"> 20487
 		</td>
 	</tr>
 	<tr>
@@ -108,18 +108,18 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2025/6/30 12:00 AM UTC
+			2025/7/1 12:00 AM UTC
 		</td>
 		<td>
-			3339
+			3379
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/985317875/small/year.png" height="20"> 5577
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/985317875/small/year.png" height="20"> 5633
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/7/2 6:16 PM UTC</i></small>
+<small><i>Last updated on 2025/7/3 12:54 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
