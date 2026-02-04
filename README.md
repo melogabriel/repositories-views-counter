@@ -28,7 +28,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/2/1 1:18 AM UTC
+			2026/2/2 1:10 AM UTC
 		</td>
 		<td>
 			160
@@ -39,34 +39,18 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/633030414/year.md">
-				langchain-chatgpt
-			</a>
-		</td>
-		<td>
-			2026/2/1 1:18 AM UTC
-		</td>
-		<td>
-			184
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/633030414/small/year.png" height="20"> 382
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/946732374/year.md">
 				google-maps-scraper
 			</a>
 		</td>
 		<td>
-			2026/2/1 12:00 AM UTC
+			2026/2/2 12:00 AM UTC
 		</td>
 		<td>
-			520
+			524
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/946732374/small/year.png" height="20"> 2151
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/946732374/small/year.png" height="20"> 2156
 		</td>
 	</tr>
 	<tr>
@@ -76,13 +60,13 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/2/1 12:00 AM UTC
+			2026/2/2 12:00 AM UTC
 		</td>
 		<td>
-			203190
+			203602
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/959189261/small/year.png" height="20"> 324111
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/959189261/small/year.png" height="20"> 324753
 		</td>
 	</tr>
 	<tr>
@@ -92,13 +76,13 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/2/1 12:00 AM UTC
+			2026/2/2 12:00 AM UTC
 		</td>
 		<td>
-			52497
+			52638
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/964844222/small/year.png" height="20"> 82401
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/964844222/small/year.png" height="20"> 82615
 		</td>
 	</tr>
 	<tr>
@@ -108,18 +92,18 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/2/1 12:00 AM UTC
+			2026/2/2 12:00 AM UTC
 		</td>
 		<td>
-			18060
+			18083
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/985317875/small/year.png" height="20"> 29119
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/985317875/small/year.png" height="20"> 29158
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/3 6:41 PM UTC</i></small>
+<small><i>Last updated on 2026/2/4 1:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
