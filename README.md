@@ -39,6 +39,22 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/633030414/year.md">
+				langchain-chatgpt
+			</a>
+		</td>
+		<td>
+			2026/2/2 1:10 AM UTC
+		</td>
+		<td>
+			184
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/633030414/small/year.png" height="20"> 382
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/946732374/year.md">
 				google-maps-scraper
 			</a>
@@ -103,7 +119,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/4 1:06 AM UTC</i></small>
+<small><i>Last updated on 2026/2/4 6:37 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
