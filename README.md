@@ -53,73 +53,9 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/633030414/small/year.png" height="20"> 405
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/946732374/year.md">
-				google-maps-scraper
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:00 AM UTC
-		</td>
-		<td>
-			809
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/946732374/small/year.png" height="20"> 2613
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/959189261/year.md">
-				tinfoil-shops
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:00 AM UTC
-		</td>
-		<td>
-			253545
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/959189261/small/year.png" height="20"> 400554
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/964844222/year.md">
-				tinfoil-shops-status
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:00 AM UTC
-		</td>
-		<td>
-			68402
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/964844222/small/year.png" height="20"> 106633
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/melogabriel/repositories-views-counter/tree/master/readme/985317875/year.md">
-				OpenNX/opennx.github.io
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:00 AM UTC
-		</td>
-		<td>
-			23909
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/melogabriel/repositories-views-counter/raw/master/graph/985317875/small/year.png" height="20"> 38435
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/17 12:20 PM UTC</i></small>
+<small><i>Last updated on 2026/8/17 6:21 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
