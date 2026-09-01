@@ -150,21 +150,10 @@
 			<code>10066</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2025/8/1</code>
-		</td>
-		<td>
-			<code>6220</code>
-		</td>
-		<td>
-			<code>9119</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/8/31 10:09 PM UTC</i></small>
+<small><i>Last updated on 2026/9/1 2:31 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
